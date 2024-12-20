@@ -1,0 +1,5 @@
+./build
+./filesCloner.build
+./filesCloner.dist
+./filesCloner.onefile-build
+./filesCloner.spec
